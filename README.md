@@ -1,2 +1,3 @@
 # Sprint_4.
-Null.
+
+Este sprint tiene como propósito continuar realizando pruebas sobre la implementación backend.
